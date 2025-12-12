@@ -1,0 +1,12 @@
+Gecho off
+
+:A
+
+
+start Chrome
+start cmd.exe
+start Dropbox
+
+Goto A
+
+pause
